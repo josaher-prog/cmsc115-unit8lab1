@@ -31,6 +31,6 @@ public class BuggyProgram {
         for (int i = start; i <= end; i++) {
             sum += i;
         }
-        return sum;
+        return sum; 
     }
 }
